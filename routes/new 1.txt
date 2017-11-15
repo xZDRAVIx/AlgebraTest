@@ -1,0 +1,5 @@
+php artisan serve
+gulp i grunt
+___.blade.php
+put = update
+controleri -> app -> hhtp
